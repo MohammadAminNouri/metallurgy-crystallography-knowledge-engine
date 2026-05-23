@@ -1,66 +1,93 @@
-# Cayron Metallurgy Knowledge Engine
+# Metallurgy Crystallography Knowledge Engine
 
-A Streamlit research dashboard for mapping Cyril Cayron's publication record with a metallurgy-first lens.
+A Streamlit research dashboard for mapping publication records with a metallurgy-first lens: alloy systems, phase transformations, EBSD/TKD methods, martensite crystallography, twinning mechanisms, processing–microstructure–property links, and research-gap discovery.
+
+[![Python Check](https://github.com/MohammadAminNouri/metallurgy-crystallography-knowledge-engine/actions/workflows/python-check.yml/badge.svg)](https://github.com/MohammadAminNouri/metallurgy-crystallography-knowledge-engine/actions/workflows/python-check.yml)
+
+---
+
+## Purpose
+
+This repository provides an interactive research-intelligence platform for metallurgy and materials-science publication analysis.
+
+The goal is to transform a publication record into a structured scientific map showing:
+
+- alloy systems studied,
+- phase transformations investigated,
+- microscopy and diffraction methods used,
+- microstructure mechanisms,
+- processing–microstructure–property links,
+- crystallographic concepts,
+- and possible future research gaps.
+
+The focus is metallurgy, not generic bibliometrics.
+
+---
 
 ## What it does
 
-The app extracts and classifies publications into:
+The dashboard can:
 
-- Alloy systems: NiTi, martensitic/bainitic steels, 316L/CuCrZr, Mg alloys, Al-Mg-Si-Cu, Ti-6Al-4V, Au-Cu/Au-Ti, Cu alloys, HEAs, superalloys, MMCs.
-- Metallurgical mechanisms: martensitic transformations, twinning/weak twins, variant selection, correspondence theory, precipitation, recrystallization, LPBF metallurgy, mechanical behavior, diffraction artefacts.
-- Methods: EBSD/TKD, TEM/STEM/HRTEM, SEM/BSE/FESEM, XRD/synchrotron, thermal processing, deformation/mechanical testing, LPBF, crystallographic modeling.
-- Research gaps: generated from recurring combinations in the publication map.
-- Crystallography calculator: orientation matrices, cubic misorientation, simplified variant generation, axis-angle extraction.
+1. Parse publication records from copied profile text or CSV files.
+2. Detect metallurgy-related keywords and mechanisms.
+3. Classify publications by alloy system, method, mechanism, and processing route.
+4. Build a knowledge graph linking papers, methods, alloys, and scientific themes.
+5. Map martensite, twinning, EBSD/TKD, crystallography, texture, precipitation, recrystallization, LPBF, and thermomechanical processing.
+6. Provide simple crystallography tools for orientation matrices, misorientation, axis-angle calculations, and variant-style analysis.
+7. Generate research-gap suggestions based on repeated and underexplored combinations.
 
-## Data coverage
+---
 
-The bundled seed dataset is parsed from the uploaded ResearchGate text in this conversation. It contains the visible copied records, not necessarily every publication ever listed on ResearchGate/EPFL/Scholar.
+## Metallurgy focus
 
-To cover all publications:
+The platform is designed around recurring metallurgy concepts such as:
 
-1. Copy all ResearchGate publication pages or use an export if available.
-2. Copy EPFL/Infoscience publication text or export CSV/BibTeX and convert to CSV.
-3. Export Google Scholar using a compliant tool such as Publish or Perish or manual CSV/BibTeX export.
-4. Use the sidebar importer in the app to paste text or upload CSV.
-5. Download the enriched CSV from the Data export tab.
+- martensitic transformations,
+- deformation twinning,
+- transformation twinning,
+- weak twins and unconventional twins,
+- orientation relationships,
+- correspondence matrices,
+- distortion matrices,
+- variant selection,
+- habit planes,
+- EBSD and TKD analysis,
+- TEM, SEM, and XRD characterization,
+- parent grain reconstruction,
+- texture evolution,
+- precipitation,
+- recrystallization,
+- additive manufacturing,
+- laser powder bed fusion,
+- steels,
+- NiTi shape memory alloys,
+- magnesium alloys,
+- aluminum alloys,
+- copper alloys,
+- titanium alloys,
+- gold alloys,
+- high-entropy alloys,
+- and processing–microstructure–property relations.
 
-The app avoids automated Google Scholar/ResearchGate scraping because those pages are fragile and may have access restrictions. It is designed to ingest user-provided exports safely.
+---
 
-## Run locally
-
-```bash
-pip install -r requirements.txt
-streamlit run app.py
-```
-
-## Deploy on Streamlit Cloud
-
-1. Push this folder to GitHub.
-2. On Streamlit Cloud, choose `app.py` as the entry point.
-3. Keep `requirements.txt` in the repository root.
-
-## Important scientific scope
-
-This is not a generic bibliometric dashboard. It is built around the scientific patterns that repeatedly appear in Cayron's metallurgy work:
-
-- martensite crystallography
-- twinning and weak twins
-- variant selection and orientation relationships
-- EBSD/TKD parent grain reconstruction
-- transformation matrices and correspondence theory
-- LPBF/thermal processing and microstructure control
-- precipitation and ordering in Al, Cu and Au-based alloys
-- microstructure-property relations in NiTi, steels, Mg, Ti and 316L systems
-
-## Files
+## Core modules
 
 ```text
-app.py                                  Main Streamlit app
-data/cayron_seed_publications.csv       Parsed seed dataset
-data/metallurgy_taxonomy.json           Metallurgy dictionary and classifier terms
-src/text_parser.py                      Text/CSV import tools
-src/taxonomy.py                         Classification engine
-src/crystallography.py                  Matrix, variant and misorientation tools
-src/gap_engine.py                       Research-gap generator
-src/visuals.py                          Plotly/networkx visualizations
-```
+Publication Explorer
+    Search, filter, and classify publication records.
+
+Metallurgy Knowledge Graph
+    Connect papers, alloy systems, methods, mechanisms, and processing routes.
+
+Methods Dashboard
+    Track EBSD, TKD, TEM, SEM, XRD, synchrotron diffraction, and related tools.
+
+Alloy-System Mapper
+    Group work by NiTi, steels, Mg alloys, Al alloys, Cu alloys, Ti alloys, Au alloys, and AM materials.
+
+Crystallography Calculator
+    Perform simplified matrix, misorientation, axis-angle, and variant calculations.
+
+Research-Gap Generator
+    Identify strong, weak, and missing combinations in the publication landscape.
