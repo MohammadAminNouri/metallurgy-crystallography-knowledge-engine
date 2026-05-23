@@ -1,93 +1,48 @@
 # Metallurgy Crystallography Knowledge Engine
 
-A Streamlit research dashboard for mapping publication records with a metallurgy-first lens: alloy systems, phase transformations, EBSD/TKD methods, martensite crystallography, twinning mechanisms, processing–microstructure–property links, and research-gap discovery.
+A Streamlit-based research intelligence app for mapping metallurgy publication corpora into alloy systems, phase transformations, EBSD/TKD methods, crystallography tools, processing routes, microstructure mechanisms, properties, and research gaps.
 
 [![Python Check](https://github.com/MohammadAminNouri/metallurgy-crystallography-knowledge-engine/actions/workflows/python-check.yml/badge.svg)](https://github.com/MohammadAminNouri/metallurgy-crystallography-knowledge-engine/actions/workflows/python-check.yml)
 
----
-
 ## Purpose
 
-This repository provides an interactive research-intelligence platform for metallurgy and materials-science publication analysis.
+This project turns a publication corpus into a metallurgy-first knowledge map. It focuses on repeated scientific themes rather than only paper counts.
 
-The goal is to transform a publication record into a structured scientific map showing:
+## Main modules
 
-- alloy systems studied,
-- phase transformations investigated,
-- microscopy and diffraction methods used,
-- microstructure mechanisms,
-- processing–microstructure–property links,
-- crystallographic concepts,
-- and possible future research gaps.
+- Overview
+- Publication Explorer
+- Knowledge Graph
+- Theme Matrix
+- Research Gap Engine
+- Deep NiTi Variant Gap
+- Crystallography Lab
+- Data Export
 
-The focus is metallurgy, not generic bibliometrics.
+## Run locally
 
----
+```bash
+pip install -r requirements.txt
+streamlit run app.py
+```
 
-## What it does
+## Deploy on Streamlit Cloud
 
-The dashboard can:
+Repository: `MohammadAminNouri/metallurgy-crystallography-knowledge-engine`  
+Branch: `main`  
+Main file path: `app.py`  
+Python version: `3.11`
 
-1. Parse publication records from copied profile text or CSV files.
-2. Detect metallurgy-related keywords and mechanisms.
-3. Classify publications by alloy system, method, mechanism, and processing route.
-4. Build a knowledge graph linking papers, methods, alloys, and scientific themes.
-5. Map martensite, twinning, EBSD/TKD, crystallography, texture, precipitation, recrystallization, LPBF, and thermomechanical processing.
-6. Provide simple crystallography tools for orientation matrices, misorientation, axis-angle calculations, and variant-style analysis.
-7. Generate research-gap suggestions based on repeated and underexplored combinations.
+## Data coverage
 
----
+The bundled seed corpus is parsed from the publication/profile text supplied in the working context. It covers all publication-like records visible in that text. If the original profile contains additional pages or records not included in the copied text, import them through the app using pasted text or CSV.
 
-## Metallurgy focus
+The app intentionally avoids automatic scraping of academic profile pages.
 
-The platform is designed around recurring metallurgy concepts such as:
+## Scientific caution
 
-- martensitic transformations,
-- deformation twinning,
-- transformation twinning,
-- weak twins and unconventional twins,
-- orientation relationships,
-- correspondence matrices,
-- distortion matrices,
-- variant selection,
-- habit planes,
-- EBSD and TKD analysis,
-- TEM, SEM, and XRD characterization,
-- parent grain reconstruction,
-- texture evolution,
-- precipitation,
-- recrystallization,
-- additive manufacturing,
-- laser powder bed fusion,
-- steels,
-- NiTi shape memory alloys,
-- magnesium alloys,
-- aluminum alloys,
-- copper alloys,
-- titanium alloys,
-- gold alloys,
-- high-entropy alloys,
-- and processing–microstructure–property relations.
+Classification is rule-based and should be reviewed by a metallurgy expert before formal academic use. Crystallography calculations are simplified helper tools.
 
----
+## License
 
-## Core modules
-
-```text
-Publication Explorer
-    Search, filter, and classify publication records.
-
-Metallurgy Knowledge Graph
-    Connect papers, alloy systems, methods, mechanisms, and processing routes.
-
-Methods Dashboard
-    Track EBSD, TKD, TEM, SEM, XRD, synchrotron diffraction, and related tools.
-
-Alloy-System Mapper
-    Group work by NiTi, steels, Mg alloys, Al alloys, Cu alloys, Ti alloys, Au alloys, and AM materials.
-
-Crystallography Calculator
-    Perform simplified matrix, misorientation, axis-angle, and variant calculations.
-
-Research-Gap Generator
-    Identify strong, weak, and missing combinations in the publication landscape.
+MIT License.

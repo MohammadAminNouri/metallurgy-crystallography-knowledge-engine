@@ -1,17 +1,22 @@
 [
   {
-    "source": "ResearchGate profile",
-    "url": "https://www.researchgate.net/profile/Cyril-Cayron",
-    "use": "Broad publication list, abstracts, questions, coauthors. Use manual copy/export because automated access can be unstable."
+    "source": "Uploaded context text",
+    "role": "Seed corpus",
+    "notes": "Visible copied profile/publication records from the conversation. The profile header states 230 publications, but copied context may not include every publication page."
   },
   {
-    "source": "EPFL people profile",
-    "url": "https://people.epfl.ch/cyril.cayron?lang=en",
-    "use": "Official affiliation: Scientist, Laboratory of Thermomechanical Metallurgy - PX Group Chair; teaching roles."
+    "source": "Research profile copied/exported text",
+    "role": "Optional expansion",
+    "notes": "Paste additional pages manually or import exported metadata. No automated scraping."
   },
   {
-    "source": "Google Scholar profile",
-    "url": "https://scholar.google.com/citations?hl=fr&user=HlmJncAAAAAJ",
-    "use": "Citation-ranked publication list. Export manually or via compliant tools such as Publish or Perish; then upload CSV to the app."
+    "source": "Institutional publication pages",
+    "role": "Optional expansion",
+    "notes": "Paste or upload CSV/BibTeX-converted records."
+  },
+  {
+    "source": "Google Scholar / Publish or Perish export",
+    "role": "Optional expansion",
+    "notes": "Use compliant export tools and upload CSV."
   }
 ]

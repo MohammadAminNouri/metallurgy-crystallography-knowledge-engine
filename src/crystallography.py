@@ -1,111 +1,55 @@
-"""Small crystallography utilities aligned with Cayron-style questions.
 
-This is not a replacement for MTEX/ARPGE/GenOVa. It provides transparent,
-inspectable matrix and misorientation tools for dashboards and teaching.
-"""
-from __future__ import annotations
-import itertools
-import math
+import itertools, math
 import numpy as np
-
-
-def normalize_rotation(R: np.ndarray) -> np.ndarray:
-    """Project a noisy 3x3 matrix to the nearest proper rotation matrix."""
-    U, _, Vt = np.linalg.svd(np.asarray(R, dtype=float))
-    M = U @ Vt
-    if np.linalg.det(M) < 0:
-        U[:, -1] *= -1
-        M = U @ Vt
+def parse_matrix(text):
+    rows=[]
+    for line in str(text).strip().splitlines():
+        nums=[float(x) for x in line.replace(',',' ').split()]
+        if nums: rows.append(nums)
+    M=np.array(rows,dtype=float)
+    if M.shape!=(3,3): raise ValueError('Expected a 3x3 matrix: three rows and three columns.')
     return M
-
-
-def axis_angle_from_rotation(R: np.ndarray) -> tuple[float, np.ndarray]:
-    """Return misorientation angle in degrees and unit axis."""
-    R = normalize_rotation(R)
-    c = (np.trace(R) - 1.0) / 2.0
-    c = float(np.clip(c, -1.0, 1.0))
-    angle = math.degrees(math.acos(c))
-    if abs(angle) < 1e-8:
-        return 0.0, np.array([0.0, 0.0, 1.0])
-    axis = np.array([R[2, 1] - R[1, 2], R[0, 2] - R[2, 0], R[1, 0] - R[0, 1]])
-    axis = axis / (2 * math.sin(math.radians(angle)))
-    n = np.linalg.norm(axis)
-    if n > 0:
-        axis = axis / n
+def normalize_rotation(R):
+    U,_,Vt=np.linalg.svd(np.asarray(R,dtype=float)); M=U@Vt
+    if np.linalg.det(M)<0: U[:,-1]*=-1; M=U@Vt
+    return M
+def axis_angle_from_rotation(R):
+    R=normalize_rotation(R); c=max(-1.0,min(1.0,(np.trace(R)-1)/2)); angle=math.degrees(math.acos(c))
+    if abs(angle)<1e-8: return 0.0, np.array([1.,0.,0.])
+    axis=np.array([R[2,1]-R[1,2],R[0,2]-R[2,0],R[1,0]-R[0,1]]); norm=np.linalg.norm(axis)
+    if norm<1e-12:
+        vals,vecs=np.linalg.eig(R); idx=np.argmin(np.abs(vals-1)); axis=np.real(vecs[:,idx]); axis=axis/np.linalg.norm(axis)
+    else: axis=axis/norm
     return angle, axis
-
-
-def cubic_symmetry_operators() -> list[np.ndarray]:
-    """24 proper rotation matrices of the cubic point group."""
-    ops = []
+def cubic_symmetry_operators():
+    ops=[]
     for perm in itertools.permutations(range(3)):
-        P = np.zeros((3, 3))
-        for i, j in enumerate(perm):
-            P[i, j] = 1
-        for signs in itertools.product([-1, 1], repeat=3):
-            S = np.diag(signs)
-            M = S @ P
-            if round(np.linalg.det(M)) == 1:
-                ops.append(M.astype(float))
-    # unique
-    unique = []
-    for op in ops:
-        if not any(np.allclose(op, u) for u in unique):
-            unique.append(op)
+        P=np.zeros((3,3))
+        for i,j in enumerate(perm): P[i,j]=1
+        for signs in itertools.product([-1,1], repeat=3):
+            S=np.diag(signs)@P
+            if round(np.linalg.det(S))==1: ops.append(S)
+    unique=[]
+    for S in ops:
+        if not any(np.allclose(S,U) for U in unique): unique.append(S)
     return unique
-
-
-def misorientation(g1: np.ndarray, g2: np.ndarray, symmetry: str = "cubic") -> dict:
-    """Minimum misorientation between two orientation matrices.
-
-    g1 and g2 map crystal to sample frame. Cubic symmetry is applied by default.
-    """
-    g1 = normalize_rotation(g1)
-    g2 = normalize_rotation(g2)
-    ops = cubic_symmetry_operators() if symmetry.lower() == "cubic" else [np.eye(3)]
-    best = None
-    for S1 in ops:
-        for S2 in ops:
-            delta = S1 @ g1 @ np.linalg.inv(g2) @ np.linalg.inv(S2)
-            angle, axis = axis_angle_from_rotation(delta)
-            if best is None or angle < best["angle_deg"]:
-                best = {"angle_deg": angle, "axis": axis, "delta": delta}
+def misorientation(g1,g2,sym_ops=None):
+    g1=normalize_rotation(g1); g2=normalize_rotation(g2); sym_ops=sym_ops or [np.eye(3)]
+    best=(999.,np.array([1.,0.,0.]))
+    for S1 in sym_ops:
+        for S2 in sym_ops:
+            angle,axis=axis_angle_from_rotation(S1@g2@np.linalg.inv(g1)@S2)
+            if angle<best[0]: best=(angle,axis)
     return best
-
-
-def generate_variants(parent_symmetry_ops: list[np.ndarray], correspondence: np.ndarray, orientation_relationship: np.ndarray | None = None, tol: float = 1e-6) -> list[np.ndarray]:
-    """Generate orientational variants from parent symmetry and a correspondence/orientation operator.
-
-    In Cayron-style notation this is a simplified variant generator: variants are
-    parent symmetry operators composed with the transformation operator.
-    """
-    C = np.asarray(correspondence, dtype=float)
-    OR = np.eye(3) if orientation_relationship is None else np.asarray(orientation_relationship, dtype=float)
-    variants = []
-    for S in parent_symmetry_ops:
-        V = normalize_rotation(S @ OR @ C)
-        if not any(np.linalg.norm(V - W) < tol for W in variants):
-            variants.append(V)
+def generate_variants(OR,parent_sym=None,daughter_sym=None,max_variants=48):
+    OR=normalize_rotation(OR); parent_sym=parent_sym or cubic_symmetry_operators(); daughter_sym=daughter_sym or [np.eye(3)]; variants=[]
+    for P in parent_sym:
+        V=normalize_rotation(P@OR)
+        if not any(any(np.allclose(D@V,E,atol=1e-6) for D in daughter_sym) for E in variants): variants.append(V)
+        if len(variants)>=max_variants: break
     return variants
-
-
-def parse_matrix(text: str) -> np.ndarray:
-    """Parse a 3x3 matrix from text with rows separated by ';' or new lines."""
-    rows = [r.strip() for r in text.replace("[", "").replace("]", "").split(";") if r.strip()]
-    if len(rows) == 1:
-        rows = [r.strip() for r in text.strip().splitlines() if r.strip()]
-    data = []
-    for row in rows:
-        nums = [float(x) for x in row.replace(",", " ").split()]
-        data.append(nums)
-    arr = np.array(data, dtype=float)
-    if arr.shape != (3, 3):
-        raise ValueError(f"Expected 3x3 matrix, got {arr.shape}")
-    return arr
-
-
-def matrix_to_markdown(M: np.ndarray, precision: int = 4) -> str:
-    rows = []
-    for row in M:
-        rows.append("| " + " | ".join(f"{x:.{precision}f}" for x in row) + " |")
-    return "\n".join(["| c1 | c2 | c3 |", "|---:|---:|---:|"] + rows)
+def matrix_to_markdown(M, precision=4):
+    return '\n'.join(['| c1 | c2 | c3 |','|---:|---:|---:|']+['| '+' | '.join(f'{x:.{precision}f}' for x in row)+' |' for row in M])
+def rotation_matrix_from_axis_angle(axis, angle_deg):
+    a=np.array(axis,dtype=float); a=a/np.linalg.norm(a); x,y,z=a; t=math.radians(angle_deg); c=math.cos(t); s=math.sin(t); C=1-c
+    return np.array([[c+x*x*C,x*y*C-z*s,x*z*C+y*s],[y*x*C+z*s,c+y*y*C,y*z*C-x*s],[z*x*C-y*s,z*y*C+x*s,c+z*z*C]])

@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+title: "Metallurgy Crystallography Knowledge Engine"
+message: "If you use this project in research, please cite it using the metadata below."
+type: software
+authors:
+  - family-names: "Nouri"
+    given-names: "Mohammad Amin"
+repository-code: "https://github.com/MohammadAminNouri/metallurgy-crystallography-knowledge-engine"
+abstract: "A Streamlit-based metallurgy research intelligence platform for mapping publication corpora, alloy systems, phase transformations, EBSD/TKD methods, crystallography tools, processing routes, and research gaps."
+keywords:
+  - metallurgy
+  - materials science
+  - crystallography
+  - martensite
+  - twinning
+  - EBSD
+  - TKD
+license: MIT
+version: 2.0.0
+date-released: 2026-05-23

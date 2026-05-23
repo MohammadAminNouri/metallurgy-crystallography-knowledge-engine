@@ -1,0 +1,988 @@
+HomeSwiss Federal Institute of Technology in LausanneCyril Cayron
+Cyril Cayron
+Ph.D (EPFL, 2000), HDR (CEA, 2012)Scientific collaborator at Swiss Federal Institute of Technology in Lausanne
+Senior Scientist
+Contact
+
+About
+
+Publications 230
+
+Questions 2
+
+Network
+
+About
+230
+Publications
+101,803
+Reads 
+5,777
+Citations
+Introduction
+Skills and Expertise
+Nanomaterials
+Material Characterization
+Materials
+X-ray Diffraction
+Microstructure
+Materials Processing
+Thin Films and Nanotechnology
+Material Characteristics
+Mechanical Properties
+Mechanical Behavior of Materials
+Additional affiliations
+Swiss Federal Institute of Technology in Lausanne
+Institute of MaterialsSwitzerland
+Position
+Scientific collaborator
+September 2014 - present
+Swiss Federal Institute of Technology in Lausanne
+Institute of MaterialsNeuchâtel, Switzerland
+Position
+Senior Researcher
+October 2000 - August 2014
+Atomic Energy and Alternative Energies Commission
+Laboratoire d’Innovation pour les Technologies des Energies Nouvelles et les Nanomatériaux (LITEN)Grenoble, France
+Position
+Group Leader
+Show All
+Education
+September 1992 - August 1995
+Ecole Nationale Supérieure des Mines de Nancy
+Field of study
+Engineering
+Publications
+Publications (230)
+Quantitative correlative SEM–EBSD analysis of precipitate–particle and precipitate–boundary interactions in Al-Mg-Si alloys
+Article
+Mar 2026
+Materials Characterization
+Seyyed Ezzatollah MoosaviCyril CayronYandong Jing[...]Roland E. Logé
+View
+A quantitative study of texture evolution mechanisms in cold-rolled 6014 aluminum alloy using the viscoplastic self-consistent model with grain fragmentation
+Article
+Feb 2026
+Materials & Design
+Yandong JingElisa CantergianiMiroslav Zecevic[...]Roland E. Logé
+View
+Corrigendum to “A quantitative study of texture evolution mechanisms in cold-rolled 6014 aluminum alloy using the viscoplastic self-consistent model with grain fragmentation”. [Mater. Design 263 (2026) 115635]
+Article
+Feb 2026
+Materials & Design
+Yandong JingElisa CantergianiMiroslav Zecevic[...]Roland E. Logé
+View
+Compatibilities and Supercompatibility Conditions in Shape Memory Alloys Determined From Correspondence, Metrics and Symmetries
+Preprint
+Jan 2026
+Cyril Cayron
+The phenomenological theory of martensite crystallography (PTMC) developed in the 1950’s explains the main crystallographic and microstructural features of martensite in shape memory alloys, such as the habit planes of bi-variant laminate martensite product, and the transformation twins between the variants. It also permits to determine the austeni...
+View
+Sensitivity of β-Mg2Si nucleation rate to interfacial energy and temperature in an Al–Mg–Si alloy
+Preprint
+Jan 2026
+Seyyed Ezzatollah MoosaviCyril CayronZeqin Liang[...]Roland E. Logé
+The formation of β-Mg2Si precipitates influences the microstructural evolution and, consequently, the final mechanical properties of Al–Mg–Si alloys during thermomechanical processing. Here, the sensitivity of the nucleation rate to interfacial energy and temperature is quantified within the framework of classical nucleation theory (CNT), capturing...
+View
+Large scale stabilization of the BCC phase in copper-steel laser powder bed fusion enabling statistical microstructural analysis and mechanical testing
+Article
+Nov 2025
+Materials & Design
+Amir Mohammad JamiliJamasp JhabvalaCyril Cayron[...]Roland E. Logé
+View
+The weak twins in martensite (as a part of the correspondence «theory»)
+Presentation
+Full-text available
+Sep 2025
+Cyril Cayron
+The presentation explains - How to use the symmetries and the correspondence to determine the different types of twins between the martensite variants - How to calculate the "twin" between two variants that only linked by a 3-fold or 4-fold symmetry of the parent phase but not a 2-fold symmetry.
+View
+Microstructures and outstanding mechanical properties of the 18 carat Au–Ti alloy after age-hardening
+Article
+Aug 2025
+Journal of Alloys and Compounds
+Céline GuidouxCyril CayronDamien Colas[...]Roland E. Logé
+View
+Fig. 2. (a) Transmission Kikuchi diffraction (TKD) phase map with...
+Fig. 3. (a) High magnification SEM micrograph (BSE detector) of a BCC...
+Fig. 4. Schematic illustration showing (a) the global view on the melt...
+Fig. 5. (a) load-unload curves of displacement controlled...
+Formation mechanism and microstructural characteristics of a body-centered cubic phase in 3D printed 316L-CuCrZr multi-material structures, combining laser powder bed fusion with foils
+Article
+Full-text available
+Jul 2025
+Scripta Materialia
+Amir Mohammad JamiliIndranil BasuCyril Cayron[...]Roland E. Logé
+Additive manufacturing of 316L/CuCrZr multi-material metallic structures has recently attracted significant attention, due to the ideal combination of structural and thermal/electrical properties. In this work, a unique multi-phase microstructure was produced with a hybrid laser-powder bed fusion (L-PBF) process combining 316L steel thin foils and...
+View
+Typical nutshell-like microstructure of a solid Fe-Ni metal bleb
+a SEM...
+SEM BSE images of a hollow Fe-Ni metal bleb
+a Fe-Ni-rich glass (dotted...
+SEM BSE images showing evidence for plagioclase melting
+a Vesicular...
+Chemical distribution of Fe/Ni/Co
+a TEM-EDS (Kα) Ni map and Fe/Ni/Co...
+Solid Fe-Ni metal blebs as geothermometers
+a T-XFe,Ni binary phase...
+Pinpointing the thermal history of lunar basaltic meteorites in a nutshell
+Article
+Full-text available
+May 2025
+
+Nature Communications
+Pierre VonlanthenFarhang NabieiCyril Cayron[...]Philippe Gillet
+Native metals of igneous origin are recognized as one of the distinctive features of basalts from the Moon. Our study demonstrates that the tiny Fe-Ni metal blebs nucleated from lunar magma exhibit unanticipated, nutshell-like, crystallographic microstructures, that can be used in conjunction with local variations in chemical compositions to trace...
+View
+a) In‐house LPBF machine coupled with beam shaping and thermal camera...
+Examples of beam intensity profiles generated using the LCoS‐SLM...
+Experimental beam profiles taken at 112 W and their corresponding phase...
+EBSD IPF map of parent β grain reconstruction taken from a...
+Schematic of the print and SEM micrographs taken at 30 µm, 300 µm, and...
+Toward Architected Microstructures Using Advanced Laser Beam Shaping in Laser Powder Bed Fusion of Ti‐6Al‐4V
+Article
+Full-text available
+Apr 2025
+
+Advanced Functional Materials
+Reza EsmaeilzadehJamasp JhabvalaLucas Schlenger[...]Roland E. Logé
+Laser Powder Bed Fusion (LPBF) stations mostly use lasers with a Gaussian beam intensity distribution, as it has advantages like small divergence and high ability to be focused. This distribution creates significant thermal gradients leading to high cooling rates, which promote the formation of an α’‐martensitic structure in Ti‐6Al‐4V. While this m...
+View
+Martensite, twins and math
+Presentation
+Full-text available
+Mar 2025
+Cyril Cayron
+Understanding complex microstructures required crystallography and math. Two examples: martensite treated by group theory and twins treated by number theory
+View
+Microstructures and Outstanding Mechanical Properties of the 18 Carat Au-Ti Alloy
+Preprint
+Jan 2025
+Céline GuidouxCyril CayronDamien Colas[...]Roland E. Logé
+View
+Microstructures and Outstanding Mechanical Properties of the 18 Carat Au-Ti Alloy after Age-Hardening
+Preprint
+Jan 2025
+Céline GuidouxCyril CayronDamien Colas[...]Roland E. Logé
+View
+A quantitative study of texture evolution mechanisms in cold-rolled 6014 aluminum alloy using the viscoplastic self-consistent model with grain fragmentation
+Preprint
+Jan 2025
+Yandong JingElisa CantergianiMiroslav Zecevic[...]Roland E. Logé
+View
+Quantitative correlative SEM–EBSD analysis of precipitate–particle and precipitate–boundary interactions in Al-Mg-Si alloys
+Preprint
+Jan 2025
+Seyyed Ezzatollah MoosaviCyril CayronYandong Jing[...]Roland E. Logé
+View
+Tailoring Mechanical Properties and Microstructures in Laser Powder Bed Fusion of 316 L Stainless Steel through Aluminium Alloying and Combined Ex-Situ and In-Situ Heat Treatments
+Article
+Dec 2024
+Additive Manufacturing
+Claire NavarreCyril CayronButtard Maxence[...]Roland E. Logé
+View
+Microstructure and texture evolution in laser Shock Peened martensitic NiTi shape memory alloy
+Article
+Full-text available
+Dec 2024
+Materials & Design
+Junfeng XiaoYandong JingReza Esmaeilzadeh[...]Roland E. Logé
+View
+Fig. 1. Schematic diagrams showing the roles of Interaction Work (IW)...
+Fig. 2. Evaluation of martensite deformation mechanisms in NiTi alloys....
+Fig. 3. Evaluation of α'' martensite deformation mechanisms in...
+Fig. 4. Evaluation of α'' martensite deformation mechanisms in Ti-8Mo...
+Fig. 5. Evaluation of α' martensite deformation mechanisms in Ti alloy....
+The role of interaction work in martensite deformation
+Article
+Full-text available
+Nov 2024
+Scripta Materialia
+Junfeng XiaoCyril CayronRoland E. Logé
+This study elucidates the evolution of martensite deformation via Interaction Work (IW). The IW is the mechanical work done by external loading, assisting deformation by competing with the energy barrier. This interplay establishes the maximum IW (IW max) criterion for variant selection of different deformation modes. Considering multiple deformati...
+View
+Zircon microstructures record high temperature and pressure conditions during impact melt evolution at the West Clearwater Lake impact structure, Canada
+Article
+Jun 2024
+Earth and Planetary Science Letters
+Neeraja S. ChinchalkarGordon R. OsinskiTimmons EricksonCyril Cayron
+View
+Hard-sphere model of the B2 → B19’ phase transformation, and its application to predict the B19’ structure in NiTi alloys and the B19 structures in other binary alloys
+Article
+May 2024
+Acta Materialia
+Cyril Cayron
+View
+Monitoring of laser-induced fast recrystallization in SS-316L through synchrotron X-ray diffraction
+Article
+Full-text available
+Feb 2024
+Materials & Design
+Claire NavarreSteven Van PetegemLucas Schlenger[...]Roland E. Logé
+View
+Hard-Sphere Model of the B2 → B19’ Phase Transformation, and its Application to Predict the B19’ Structure in Niti Alloys and the B19 Structures in Other Binary Alloys
+Preprint
+Jan 2024
+Cyril Cayron
+View
+Customized Mechanical Properties and Tailored Microstructures in Stainless Steel 316l-Aluminium Alloys Via Laser Powder Bed Fusion and Ex Situ / in Situ Heat Treatments
+Preprint
+Jan 2024
+Claire NavarreCyril CayronMaxence Buttard[...]Roland E. Logé
+View
+A partial overview on the crystallography of martensitic transformations and twinning
+Presentation
+Full-text available
+Dec 2023
+Cyril Cayron
+A brief overview on the crystallography martensite and deformation twins: - Concepts: lattice distortion, orientation, correspondence, variants, PTMC, simple shear, invariant plane strain, hard-sphere, angular distortion, correspondence theory - Materials: steels, titanium alloys, NiTi shape memory alloys, magnesium.
+View
+In-situ Selective Laser Heat Treatment for microstructural control of additively manufactured Ti-6Al-4V
+Article
+Full-text available
+Nov 2023
+Additive Manufacturing
+Reza EsmaeilzadehMilad Hamidi NasabCharlotte de Formanoir[...]Roland E. Logé
+View
+EBSD study of variant reorientation, texture, and twin formation in a martensitic NiTi alloy deformed in compression
+Article
+Full-text available
+Nov 2023
+Acta Materialia
+Junfeng XiaoCyril CayronM. Van der MeerRoland E. Logé
+View
+Revealing the microstructure evolution of the deformed superelastic NiTi wire by EBSD
+Article
+Full-text available
+Jun 2023
+Acta Materialia
+Junfeng XiaoCyril CayronRoland E. Logé
+View
+Simple shear extrusion versus equal channel angular pressing: A comparative study on the microstructure and mechanical properties of an Mg alloy
+Article
+Jun 2023
+Journal of Magnesium and Alloys
+Alireza RezaeiR. MahmudiCyril CayronRoland E. Logé
+Two severe plastic deformation (SPD) techniques of simple shear extrusion (SSE) and equal channel angular pressing (ECAP) were employed to process an extruded Mg−6Gd−3Y−1.5Ag (wt%) alloy at 553 K for 1, 2, 4 and 6 passes. The microstructural evolutions were studied by electron back scattered diffraction (EBSD) analysis and transmission electron mic...
+View
+Reply to “Comment: On the nature of ‘unconventional twins’ in magnesium”
+Article
+Feb 2023
+Scripta Materialia
+Cyril Cayron
+We agree with Lin et al.’s comment Lin et al.’s (2022). The interpretation we proposed to explain the twins formed in a single crystal of magnesium (Cayron and Logé, 2018) was not correct.
+View
+Fig. 2. SEM micrographs (secondary electron, SE) of the powder...
+Fig. 4. Transmission Kikuchi diffraction (TKD) of a lamella prepared by...
+Fig. 5. (a) Bright-field transmission electron microscopy (TEM)...
+Fig. 6. (a) Back-scattered electron micrograph from an X-Y...
+Fig. 7. Optical microscopy (OM) micrograph of two micro-hardness...
+Laser powder-bed fusion of a high entropy alloy with outstanding intrinsic mechanical properties
+Article
+Full-text available
+Feb 2023
+Journal of Alloys and Compounds
+Navid SohrabiRuoshi RanPau Ayuso Duro[...]Roland E. Logé
+In the past few years, laser powder-bed fusion (LPBF) of high entropy alloys (HEAs) has gained significant interest. We investigated a HEA (PdPtRhIrCuNi) elaborated by LPBF, and studied its microstructure and mechanical properties. This alloy has potential applications in luxury industries, as well as in medical technologies. The microstructure con...
+View
+Response of magnesium microcrystals to c-axis compression and contraction loadings at low and high strain rates
+Article
+Full-text available
+Feb 2023
+Acta Materialia
+Nicolo Maria della VenturaAmit SharmaCyril Cayron[...]Xavier Maeder
+View
+Monitoring of Laser-Induced Fast Recrystallization in Ss-316l Through Synchrotron X-Ray Diffraction
+Preprint
+Jan 2023
+Claire NavarreSteven Van PetegemLucas Schlenger[...]Roland E. Logé
+View
+An investigation on reorientation and textural evolution in a martensitic NiTi rolled sheet using EBSD
+Article
+Full-text available
+Oct 2022
+International Journal of Plasticity
+Junfeng XiaoCyril CayronRoland E. Logé
+Variant reorientation is a ubiquitous phenomenon in shape memory alloys and has a great influence on their texture and mechanical response. In the present study, a martensitic NiTi rolled sheet is investigated by the electron backscattering diffraction (EBSD) technique; the variant reorientation and texture evolution are followed during bending. Th...
+View
+Thermally Controlled Growth of Photoactive FAPbI 3 Films for Highly Stable Perovskite Solar Cells
+Article
+Sep 2022
+
+Energy & Environmental Science
+Sandy SanchezStefania CacovichGuillaume Vidon[...]Michael Grätzel
+We employ flash infrared annealing to investigate the phase transition of formamidinium lead triiodide (FAPbI3) thin films for their solar cell applications. Measuring the enthalpy changes of the FAPbI3 composition at different heating rates allows us to calculate an activation energy of 1.8 eV for the black perovskite phase transition. We explore...
+View
+Order-driven evolution of precipitates in Al-Mg-Si-Cu alloys: from past to future research
+Presentation
+Full-text available
+Sep 2022
+Cyril Cayron
+To find the best Cu % and Mg/Si ratio and optimize the heat treatments in 6xxx alloys, we need to answer the following questions: What are the crystallographic structures of the nano-precipitates? What is their precipitation sequence? Do they dissolve to re-precipitate in other forms or do they "evolve" during their growth? The aim of the presentat...
+View
+The concept of axial weak twins
+Article
+Sep 2022
+Acta Materialia
+Cyril Cayron
+It is generally assumed that the parent-twin interface is a fully invariant plane. The calculations of the rational interfaces of the type I twins and irrational interfaces of the type II twins are based on this hypothesis. Recently, some asymmetric facets and unconventional twins have been observed in magnesium that do not agree with this paradigm...
+View
+FESEM images of specimens microstructure (a) 0 at.% Cr, (b) 6 at.% Cr,...
+FESEM image and EBSD maps of 14 at.% Cr specimen, (a) FESEM image, (b)...
+γ′ particles in specimens (high-magnification SEM images of specimens)...
+a TEM and b HRTEM images of the γ/γ′ phases in the specimen with 14 at.% Cr
+Pole figures of (a) the γ/γ′ phases, (b) the β phase, (c) simulation of...
+Effect of chromium content on microstructural evolution of CoNiAlW superalloy
+Article
+Full-text available
+Aug 2022
+Applied Physics A
+Aliakbar Fallah SheykhlariHossein ArabiSeyed Mohammad Ali BoutorabiCyril Cayron
+Effects of chromium (Cr) content on types and morphologies of various phases of a newly developed Co–Ni–Al–W superalloy (Co-30Ni-6W-9Al-3Ti-1Ta) have been investigated in this study. Microstructural examinations were carried out by field-emission scanning electron microscope (FESEM), electron backscatter diffraction (EBSD), high-resolution transmis...
+View
+A method to reduce N-dimensional lattices and solve N-dimensional Bézout's identities (25 slides)
+Presentation
+Full-text available
+May 2022
+Cyril Cayron
+Given N integers a,b,c.... find other small integers such that au + bv + cw + .. = 1 (Bézout's identity), and find also other small integers such that au + bv + cw +... = 0 (integer relation). Not so easy ! This presentation explains how lattices can be reduced by hyperplane shearing and how this method can be used to find solutions to Bézout's ide...
+View
+The correspondence theory of martensitic transformations (mp4, 27 min, 122MB, ICOMAT 2022)
+Presentation
+Full-text available
+Apr 2022
+Cyril Cayron
+The correspondence theory explains why the junction planes of type I twin between the martensite variants are generic rational planes, and why the 180° rotation axes of the type II twins are generic rational directions, and how they can be easily calculated from the correspondence matrix and the symmetry matrices of the parent phase. The lattice pa...
+View
+Hot rocks: Constraining the thermal conditions of the Mistastin Lake impact melt deposits using zircon grain microstructures
+Article
+Apr 2022
+Earth and Planetary Science Letters
+Gavin TolomettiTimmons EricksonGordon R. Osinski[...]C.D. Neish
+The production of superheated melt during hypervelocity impact events has been proposed to be a common occurrence on terrestrial planetary bodies. Recent direct evidence of superheated impact melt temperatures exceeding >2370°C from the Kamestastin (Mistastin Lake) impact structure, Canada, was based on a single impact glass sample. Such high super...
+View
+Evolution of deformation twinning mechanisms in magnesium from low to high strain rates
+Article
+Full-text available
+Apr 2022
+Materials & Design
+Nicolo della VenturaAmit SharmaManish Jain[...]Xavier Maeder
+We present a systematic investigation of {101¯2} extension twinning mechanism in single crystal magnesium micropillars deformed over seven orders of magnitude of strain rate, from 10–4 to 500 s⁻¹, revealing how the accommodation of newly formed twins evolves with and depends on the kinetic compatibility of interfacial processes when high deformatio...
+View
+The correspondence theory of martensitic transformations in 28 slides
+Presentation
+Full-text available
+Feb 2022
+Cyril Cayron
+The is an extended version of a presentation that will be given at ICOMAT 2022 in March 2022. It gives the details of a new approach of the crystallography of martensite transformations. The twins between the variants are deduced from the parent symmetries that constitute the inter-correspondence operators. The relative roles of symmetries and metr...
+View
+The Correspondence Theory and Its Application to NiTi Shape Memory Alloys
+Article
+Full-text available
+Jan 2022
+
+Crystals
+Cyril Cayron
+Martensite crystallography is usually described by the phenomenological theory of martensite crystallography (PTMC). This theory relies on stretch matrices and compatibility equations, but it does not give a global view on the structures of variants, and it masks the relative roles of the symmetries and metrics. Here, we propose an alternative theo...
+View
+Understanding variant selection and texture in additively manufactured red-gold alloys
+Article
+Full-text available
+Jan 2022
+Scripta Materialia
+Hossein Ghasemi TabasiMargaux N. D. LarcherCyril Cayron[...]Roland E. Logé
+Printing gold alloys parts is a challenge due to the high reflectivity and thermal conductivity of these materials. Recent studies show an improvement in printing gold using the Laser Powder Bed Fusion (LPBF) process; however, the impact of the A1→L10 phase transformation on printed red-gold alloy has not been studied. In this work, 3D printed red-...
+View
+Example of the LLL algorithm with a matrix representing a list of 20...
+Directional shear of along the direction . Case where (a) , and (b) ....
+Hyperplanar shear parallel to . The lattice is ‘stratified’ into...
+Cubification by method 1 of the lattice of Fig. 1(a). The vectors are...
+A new method for lattice reduction using directional and hyperplanar shearing
+Article
+Full-text available
+Jan 2022
+
+Acta Crystallographica Section A: Foundations and Advances
+Cyril Cayron
+A geometric method of lattice reduction based on cycles of directional and hyperplanar shears is presented. The deviation from cubicity at each step of the reduction is evaluated by a parameter called ‘basis rhombicity’ which is the sum of the absolute values of the elements of the metric tensor associated with the basis. The levels of reduction ar...
+View
+Evolution of Deformation Twinning Mechanisms in Magnesium from Low to High Strain Rates
+Article
+Jan 2022
+SSRN Electronic Journal
+Nicolo della VenturaAmit SharmaManish Jain[...]Xavier Maeder
+View
+The Concept of Axial Weak Twins
+Article
+Jan 2022
+SSRN Electronic Journal
+Cyril Cayron
+View
+Response of Magnesium Microcrystals to C-Axis Compression and Contraction Loadings at Low and High Strain Rates
+Article
+Jan 2022
+SSRN Electronic Journal
+Nicolo Maria della VenturaAmit SharmaCyril Cayron[...]Xavier Maeder
+View
+Persistence of variant selection in red gold alloys
+Article
+Dec 2021
+Journal of Alloys and Compounds
+Margaux N. D. LarcherCyril CayronAndreas Blatter[...]Roland E. Logé
+Recently, a new thermally activated distortion with amplification (TADA) effect has been reported in red gold alloys caused by the A1 → L10 phase transformation. The macroscopic amplification is due to the persistence of variant selection nucleated under stress but growing in stress-free condition. In this work, we show that the TADA effect can gen...
+View
+Fig. 2. Mechanical properties of the Cu-Ti-(Fe) alloys. (a) Evolution...
+Fig. 3. EBSD maps of the alloys (a) Cu-6Ti and (b) Cu-6Ti-Fe in the SA...
+Fig. 7. TEM micrographs of (a) Cu-6Ti and (b) Cu-6Ti-Fe in their SA...
+Fig. 8. Scanning Transmission Electron Microscopy in the High Angle...
+Fig. 9. SAED pattern in the zone axis ZA = [0 0 1] of the copper matrix...
+Micro-addition of Fe in highly alloyed Cu-Ti alloys to improve both formability and strength
+Article
+Full-text available
+Dec 2021
+Materials & Design
+Baptiste RouxelCyril CayronJulien Bornand[...]Roland E. Logé
+Cu-Be alloys provide excellent electrical and mechanical properties, but present serious health hazards during manufacturing. Among alternative alloys, the Cu-Ti system has the highest yield strength; however, Ti cannot be easily solutionized at concentrations above 4 wt%, resulting in a relatively low formability. In this study, Cu-xTi-yFe (x = 3,...
+View
+Reply to “Response to “Diffraction artefacts from twins and stacking faults, and the mirage of hexagonal, polytypes or other superstructures"”
+Article
+Oct 2021
+Scripta Materialia
+Cyril Cayron
+We reaffirm that the high-resolution electron microscopy image used by Jenkins and Smith as a proof of the existence of a 9R structure of the Cu nanoprecipitates in iron alloy results from a moiré effect. The herringbone motif in the image can be interpreted as an interference between the body centred cubic lattice of iron and the same lattice cont...
+View
+Unit cell associated with the plane . The out-of-plane vector points to...
+Pseudocode to find Bézout numbers associated with the coordinates of a...
+Pseudocode to find a column-constrained unimodular matrix associated...
+Projections of the vectors along onto the plane . The vector is a short...
+Pseudocode of the sequence of operations to determine a short unit cell...
+A fast algorithm to find reduced hyperplane unit cells and solve N-dimensional Bézout’s identities
+Article
+Full-text available
+Aug 2021
+
+Acta Crystallographica Section A: Foundations and Advances
+Cyril Cayron
+Deformation twinning on a plane is a simple shear that transforms a unit cell attached to the plane into another unit cell equivalent by mirror symmetry or 180° rotation. Thus, crystallographic models of twinning require the determination of the short unit cells attached to the planes, or hyperplanes for dimensions higher than 3. Here, a method is...
+View
+Figure 1. Shock recrystallized zircon from the Yarrabubba impact...
+Figure 2. Shocked monazite from the Ries and Haughton impact structures...
+Deciphering extreme mineral records; microstructural phase heritage of shocked materials
+Article
+Full-text available
+Aug 2021
+Microscopy and Microanalysis
+Timmons EricksonNicholas TimmsAaron J. Cavosie[...]Cyril Cayron
+View
+Microstructural evolution and superplastic behavior of a fine-grained Mg−Gd−Y−Ag alloy processed by simple shear extrusion
+Article
+Jan 2021
+Materials Science and Engineering A
+Alireza RezaeiR. MahmudiCyril CayronRoland E. Logé
+Two magnesium alloys with the nominal compositions of Mg−6Gd−3Y (GW63) and Mg−6Gd−3Y−1Ag (GW63−1Ag) were hot extruded and then processed by 6 passes of the simple shear extrusion (SSE) process at 553 K. Both SEM and EBSD studies confirmed the mean grain size reduction of the extruded base GW63 alloy from 10.1 to 2.9 μm by adding 1 wt% Ag. This decr...
+View
+Superplastic behavior of a severely deformed Mg–6Gd−3Y−0.5Ag alloy
+Article
+Jan 2021
+Materials Science and Engineering A
+Alireza RezaeiR. MahmudiCyril CayronRoland E. Logé
+An extruded Mg–6Gd−3Y−0.5Ag magnesium alloy was processed by the simple shear extrusion (SSE) technique at 553 K for 1, 2, 4 and 6 passes to refine the microstructure. The electron back scattered diffraction (EBSD) analysis was used to investigate the microstructural evolutions of the alloy after the SSE processing. The grain orientation spread (GO...
+View
+Figure 2 Directional reduction. Case where (a) ⌊í µí±⌉ = ⌊ í µí° í...
+Figure 3 Hyperplanar reduction. The lattice is "stratified" into...
+Lattice reduction by cubification
+Preprint
+Full-text available
+Jan 2021
+Cyril Cayron
+Lattice reduction is a NP-hard problem well known in computer science and cryptography. The Lenstra-Lenstra-Lovasz (LLL) algorithm based on the calculation of orthogonal Gram-Schmidt (GS) bases is efficient and gives a good solution in polynomial time. Here, we present a new approach called cubification that does not require the calculation of the...
+View
+Figure 1 Projections to transform the column vectors of a matrix í µí°...
+A fast algorithm to find reduced hyperplane unit cells and solve N- dimensional Bézout's identities
+Preprint
+Full-text available
+Jan 2021
+Cyril Cayron
+The paper explains the method to determine a short unit cell attached to any hyperplane given by its integer vector p. Equivalently, it gives all the solutions of the N-dimensional Bézout's identity associated with the coordinates of p.
+View
+Formation Mechanism of Laves Phase with Two Morphologies in a Novel 9Cr-3W-3Co-1CuVNbB Steel During Creep Process
+Article
+Jan 2021
+SSRN Electronic Journal
+B. XiaoHaokai DongTao Yang[...]Lianyong Xu
+View
+Unconventional Deformation Twinning Mechanisms in Magnesium at High Strain Rates
+Article
+Jan 2021
+SSRN Electronic Journal
+Nicolo della VenturaAmit SharmaManish Jain[...]Xavier Maeder
+View
+Fig. 2. Simulation of the SAED of Fig. 4 of [1] . (a-c) Experimental...
+Fig. 3. Simulation of the SAED of Fig.7 of [1] . (a) Experimental SAED....
+Fig. 4. Moiré fringes in HRTEM or HAADF-STEM images generated by twin...
+Fig. 5. HAADF-STEM images along the < 110 > zone axis of real ω phase...
+Diffraction artefacts from twins and stacking faults, and the mirage of hexagonal, polytypes or other superstructures
+Article
+Full-text available
+Nov 2020
+Scripta Materialia
+Cyril Cayron
+Recently, a hexagonal phase has been reported in high carbon steels in several studies. Here, we show that the electron microscopy results used in these studies were erroneously interpreted. The extra-spots in the diffraction patterns and the odd contrasts in the high resolution images are not those a superstructure but result from double diffracti...
+View
+Fig. 1. Schematic representation of an axial weak plane. The invariant...
+Fig. 3. Lattice distortion associated with an axial weak twin. The...
+Axial heterotwins
+Preprint
+Full-text available
+Nov 2020
+Cyril Cayron
+The current theory of twin crystallography is based on the concept of invariant plane. The present paper extends the theory to encompass the cases of heterotwins in which the composition plane is only quasi-invariant.
+View
+EBSD study of variant selection in red gold alloys during phase transformation under four point bending
+Conference Paper
+Full-text available
+Nov 2020
+Margaux N. D. LarcherCyril CayronAndreas Blatter[...]Roland E. Logé
+View
+The B2-B19’ orientation relationships and their continuums revealed by EBSD and TKD observations of NiTi alloys
+Conference Paper
+Nov 2020
+Cyril Cayron
+View
+Phase diagram of the ZrO2 system
+Stable at ambient conditions,...
+Optical imaging, EBSD data and parent-grain reconstruction for the...
+Pb–Pb data generated by SIMS analysis of the large reversion twinned...
+Evidence of extensive lunar crust formation in impact melt sheets 4,330 Myr ago
+Article
+Full-text available
+Oct 2020
+Nature Astronomy
+Lee WhiteAna CernokJames Darling[...]Mahesh Anand
+Accurately constraining the formation and evolution of the lunar magnesian suite is key to understanding the earliest periods of magmatic crustal building that followed accretion and primordial differentiation of the Moon. However, the origin and evolution of these unique rocks is highly debated. Here, we report on the microstructural characterizat...
+View
+SPS configurations investigated in this study where (a) uses a die and...
+Current vector field for a sample (a) with a die and (b) without a die.
+Optical micrographs of a PM2000 sample where (a) shows a transverse...
+Diagram of the SPS joining orientation according to the sample orientation.
+Micrograph of the bonding interface. SPS joined at 975 °C for 10 min...
+Joining of Oxide Dispersion-Strengthened Steel Using Spark Plasma Sintering
+Article
+Full-text available
+Aug 2020
+
+Metals
+Foad NaimiJean-Claude NiepceMostapha Ariane[...]Frédéric Bernard
+Difficulties with joining oxide dispersion-strengthened (ODS) steels using classical welding processes have led to the development of alternative joining techniques such as spark plasma sintering (SPS). SPS, which is classically employed for performing sintering, may also be used to join relatively large components due to the simultaneous applicati...
+View
+Fig. 1. Bent lamellae before heat treatment. a) Lamellae bent in the...
+Fig. 2. Detailed behavior of the L125 lamella exhibiting intricate TADA...
+Fig. 3. a) Masterpiece ρ26 b) Several L26 lamellae placed in the...
+Fig. 4. Evolution of the lamella L26 shape with the heat treatment...
+Fig. 5. Evolution of the maximal strain induced by the transformation...
+The Thermally Activated Distortion with Amplification Effect and related variant selection in red gold alloys
+Article
+Full-text available
+Aug 2020
+Acta Materialia
+Margaux N. D. LarcherCyril CayronAndreas Blatter[...]Roland E. Logé
+Variant selection during the A1→L10 transformation in a polycrystalline red gold alloy close to equiatomic Au-Cu composition has been extensively studied by Electron Back Scattered Diffraction (EBSD) in our previous work. The use of a mathematical description of the lattice distortion and the maximal work criterion allowed us to quantify the degree...
+View
+Figure 4. Electron BackScatter Diffraction (EBSD) map 1. (a) Phase map...
+Figure 21. Two-dimensional scheme with a hard-sphere square (γ)-rhombus...
+What EBSD and TKD Tell Us about the Crystallography of the Martensitic B2-B19 Transformation in NiTi Shape Memory Alloys
+Article
+Full-text available
+Jul 2020
+
+Crystals
+Cyril Cayron
+The complex and intricate microstructure of B19' martensite in shape memory nickel titanium alloys is generally explained with the Phenomenological Theory of Martensitic Crystallography (PTMC). Over the last decade, we have developed an alternative approach that supposes the existence of a "natural" parent-daughter orientation relationship (OR). As...
+View
+Solute-dislocation interactions and creep-enhanced Cu precipitation in a novel ferritic-martensitic steel
+Article
+May 2020
+Acta Materialia
+B. XiaoLianyong XuCyril Cayron[...]Roland E. Logé
+G115 steel has gained a growing interesting recently for its use in next-generation ultra-supercritical power plant applications. Due to the high densities of dislocations and lath martensite boundaries in G115 steel, interactions between solutes and dislocations result in unique microstructural evolution during creep with the formation of dense Cu...
+View
+A simple example to show that there is no need of Lagrange multipliers to solve a constrained optimization problem.
+Presentation
+Full-text available
+Apr 2020
+Cyril Cayron
+This presentation just aims at promoting a method that could be useful. As the manuscript in Arxviv (under review) seems not so easy to read, I decided to explain the method with 11 slides (among which 4 are reminder about matrices and determinants).
+View
+Figure 2a shows a representative top-view SEM image of the commercial...
+van der Waals Epitaxy of Earth-Abundant Zn3P2 on Graphene for Photovoltaics
+Article
+Full-text available
+Apr 2020
+Crystal Growth & Design
+Rajrupa PaulNicolas HumblotSimon Escobar Steinvall[...]Anna Fontcuberta i Morral
+Earth-abundant semiconducting materials are a potential solution for large-scale deployment of solar cells at a lower cost. Zinc phosphide (Zn3P2) is one such Earth-abundant material with optoelectronic properties suitable for photovoltaics. Herein, we report the van der Waals epitaxy of tetragonal Zn3P2 (α-Zn3P2) on graphene using molecular beam e...
+View
+Figure 3. Polynomial Taylor approximation functions í µí± ̃ (í µí±¥)...
+Figure 4. Contour surfaces of í µí±(í µí±¥, í µí±¦, í µí± §) = í µí±¥...
+Figure 10. Taylor series of í µí± along the í µí± § -axis. (a) Graph...
+Solving constrained optimization problems without Lagrange multipliers
+Preprint
+Full-text available
+Mar 2020
+Cyril Cayron
+Constrained optimization problems exist in all the domain of science, such as thermodynamics, mechanics, economics etc. For more than two centuries, these problems have been solved with the help of the Lagrange multipliers and the Lagrangian function. This method has however the disadvantage that it adds the number of constraint equations to the di...
+View
+Similarities between the models of deformation and growth twinning...
+Schematic representation of a type I deformation twinning (normal...
+Schematic representation of the layers formed by the plane p = (h, k,...
+Scheme showing a flat view of the K plane and explaining why the shear...
+Conjugate twins. The 2D rectangular twins are defined by K1 = (−1, 1),...
+Complements to Mügge and Friedel’s Theory of Twinning
+Article
+Full-text available
+Feb 2020
+
+Metals
+Cyril Cayron
+The crystallography of twinning is based on the concepts of simple shear and obliquity introduced by Mügge, Mallard and Friedel at the turn of the last century, with tensor mathematics later developed by Bilby, Bevis and Crocker in the 1960s. We propose a synthesis of these works by writing the three transformations (distortion, orientation and cor...
+View
+Solute-Dislocation Interactions and Creep-Enhanced Cu Precipitation in a Novel Ferritic-Martensitic Steel
+Article
+Jan 2020
+SSRN Electronic Journal
+B. XiaoLianyong XuCyril Cayron[...]Roland E. Logé
+View
+Diffraction Artefacts from Twins and Stacking Faults, and the Mirage of Hexagonal, Polytypes or Other Supersuperstructures
+Article
+Jan 2020
+SSRN Electronic Journal
+Cyril Cayron
+View
+TEMPERATURE CONSTRAINT OF THE MISTASTIN LAKE IMPACT STRUCTURE IMPACT MELT ROCKS
+Conference Paper
+Jan 2020
+Gavin TolomettiTimmons EricksonGordon R. Osinski[...]Catherine Neish
+View
+Lattices of the two studied phases: (a) A1 disordered f.c.c. and (b)...
+Red gold lamella under stress in the four-point bending device before...
+Reference stress-free sample heated at 320°C for 1 h. (a) EBSD map,...
+Schematics of the f.c.c. parent lattice in grey with one associated...
+3D schematic of the variants formed on each (110) plane of the cube....
+Electron backscatter diffraction study of variant selection during ordering phase transformation in L10-type red gold alloy
+Article
+Full-text available
+Oct 2019
+
+Journal of Applied Crystallography
+Margaux N. D. LarcherCyril CayronAndreas Blatter[...]Roland E. Logé
+A shape-memory effect is known to appear in red gold alloys with compositions close to Au–Cu. The aim of this paper is to study by electron backscatter diffraction (EBSD) the variant selection in the A1 → L10 transformation occurring under stress, in bending conditions. The L10 domains are successfully identified by this technique despite the c/a r...
+View
+The transformation matrices (distortion, orientation, correspondence), their continuous forms and their variants. Corrigenda
+Article
+Full-text available
+Aug 2019
+
+Acta Crystallographica Section A: Foundations and Advances
+Cyril Cayron
+Appendices B4 and B5 of Cayron [Acta Cryst. (2019), A75, 411–437] contain equations involving the point group and the metric tensor in which the equality symbol should be substituted by the inclusion symbol.
+View
+Fig. 1. Optical micrograph of the chevron martensite formed on the...
+Fig. 2. EBSD map of the chevron martensite. A: Austenite and martensite...
+Fig. 5. Simulated pole figure of the chevron martensite in Fig. 2. A:...
+Fig. 6. Hzz criterion for the martensite nucleation for a variant...
+Fig. 7. A: Map of Hzz for variant 1 in grain 2 as function of the...
+On the chevron morphology of surface martensite
+Article
+Full-text available
+Aug 2019
+Acta Materialia
+Annick BaurCyril CayronRoland E. Logé
+It is established that the annealing twin boundaries of austenite act as nucleation sites for the martensitic transformation. In the present study, we observe that in surface martensite the transformation only takes place for twin boundaries that are approximately vertical in respect with the sample free surface. This phenomenon is shown to be rela...
+View
+Reversing the way of thinking deformation twinnning, and the unconventional twin in a single crystal of magnesium
+Presentation
+Full-text available
+Jul 2019
+Cyril CayronRoland E. Logé
+Deformation twinning is assumed to be a simple shear. The associated mechanism is often described in term of disconnections. Within this paradigm, many funadmental questions remain unsoved. We propose to imagine deformation twinning as a phase transformation (driven by stress), without imposing the simple strain condition to the atomic displacement...
+View
+Fig. 5. A: EBSD map in Euler colour coding of the lath martensite...
+Effect of tensile deformation on variant selection in {225}γ plate martensite and {557}γ lath martensite
+Article
+Full-text available
+Jul 2019
+Results in Materials
+Annick BaurCyril CayronRoland E. Logé
+The effect of tensile deformation on variant selection has been studied in {225}γ plate martensite and {557}γ lath martensite formed in high- and low-carbon steels, respectively. Different thermomechanical treatments are performed to analyse the effect of applied tensile stress, in the elastic and plastic range and the effect of prior plastic tensi...
+View
+Shock-produced high-pressure (La, Ce, Th)PO4 polymorph revealed by microstructural phase heritage of monazite
+Article
+Apr 2019
+Geology
+Timmons EricksonNicholas TimmsMark Alan Pearce[...]David A. Kring
+View
+The difference between the stretch matrix and the correspondence matrix...
+Derivative of a continuous distortion matrix F(θ). The parameters θs...
+A simple 2D case of continuous deformation twinning of a p2mm α phase...
+The square p4mm (γ) → square p4mm (α) transformation with Σ1...
+The square p4mm (γ) → square p4mm (α) transformation with Σ1...
+The transformation matrices (distortion, orientation, correspondence), their continuous forms and their variants
+Article
+Full-text available
+Apr 2019
+
+Acta Crystallographica Section A: Foundations and Advances
+Cyril Cayron
+The crystallography of displacive/martensitic phase transformations can be described with three types of matrix: the lattice distortion matrix, the orientation relationship matrix and the correspondence matrix. Given here are some formulae to express them in crystallographic, orthonormal and reciprocal bases, and an explanation is offered of how to...
+View
+Effect of powder characteristics and oxygen content on modifications to the microstructural topology during hot isostatic pressing of an austenitic steel
+Article
+Apr 2019
+Acta Materialia
+S. IrukuvarghulaHany HassaninCyril Cayron[...]Michael Preuss
+The effect of powder size distribution and oxygen content on the extent of multiple twinning and spatial distribution of oxide inclusions in hot isostatic pressed (HIPed)316L steels was investigated using powders with different characteristics. Modifications to, and differences in their microstructural topology, were tracked quantitatively by evalu...
+View
+Microstructures and Properties of Martensitic Materials
+Article
+Full-text available
+Mar 2019
+
+Crystals
+Cyril Cayron
+Martensite, initially named in honor of Adolph Martens and his pioneering work in metallography and microstructures at the end of the 19th century, has now a far broader meaning than previously used [...]
+View
+Experimental and theoretical investigation of crystallography and variant selection during massive transformation in Zr alloy
+Article
+Feb 2019
+
+Philosophical Magazine
+J.M. WangB.F. LuanRenlong Xin[...]Q. Liu
+Massive transformation, as a non-conventional solid-state phase transformation mode, is scarcely observed in metals with hexagonal closed packed (HCP) structure, especially in Zr and its alloys. In this study, however, we report the massive transformation in a Zr-1.0Cr-0.4Fe alloy after conventional β-quenching. It is shown that the necessary condi...
+View
+Study on Bainite/Martensite Transformation in Reheated Weld Metals
+Article
+Full-text available
+Dec 2018
+
+Materials Science Forum
+Gaojun MaoCyril CayronRui CAO[...]Jian Hong Chen
+A new combination of laser scanning confocal microscope (LSCM) and electron backscattering diffraction (EBSD) with a field-emission scanning electron microscope (SEM) is utilized to study the mechanism of bainite transformation in reheated low carbon bainitic weld metal. The LSCM observations show that laths grow on the surface at various rates, fr...
+View
+Figure 1. (A) Four-point bending device. (B) Bended sample embedded in...
+Figure 2. Bright-field optical micrograph of the sample in 4-point...
+Figure 3. EBSD map of a column of martensite with the austenite in blue...
+Figure 4. Histograms of the variants' occurrence considering the BCC...
+Figure 5. Trace analysis of the shape strain predicted by the...
+Variant Selection in Fe-20Ni-1.8C under Bending
+Article
+Full-text available
+Dec 2018
+
+Crystals
+Annick BaurCyril CayronRoland E. Logé
+Variant selection is commonly observed in martensitic steels when a stress is applied to the material during transformation. Classically, the selection phenomenon is modelled considering the work of the shape strain in the applied stress field. This shape strain is generally calculated by using the Phenomenological Theory of the Martensite Crystall...
+View
+Table 2 .
+Morphological and Crystallographic Characteristics of α Structure in a Low-Carbon Iron–Nickel Alloy
+Article
+Full-text available
+Dec 2018
+
+Crystals
+Gaojun MaoCyril CayronXiuli Mao[...]Jianhong Chen
+The features of α (body-centered cubic) structures were investigated in a low-carbon multicomponent alloy from morphological and crystallographic perspectives. In addition to apparent features of granular bainite and lamellar martensite, a morphological similarity can be found between lath martensite and lath bainite. Therefore, it is of interest t...
+View
+Effect of cooling conditions on microstructures and mechanical behaviors of reheated low-carbon weld metals
+Article
+Dec 2018
+Materials Science and Engineering A
+Gaojun MaoRui CAOCyril Cayron[...]Jianhong Chen
+An investigation was conducted to systematically explore the relationships among microstructure evolution, continuous cooling transformation kinetics, and mechanical properties development in a low-carbon reheated weld metal (0.052C-1.5Mn-0.3Si-0.7Cr-0.8Mo-0.014Ti-0.004V-4Ni, wt.%). Microstructure was characterized by optical microscopy, scanning e...
+View
+Figure 1 Difference between the stretch matrix and the correspondence...
+Table 1 Different type of variants created by structural phase...
+Figure 2 Derivative of a continuous distortion matrix í µí° (í µí¼)....
+Figure 3 2D simple case of continuous deformation twinning of a p2mm ...
+Figure 4 Square p4mm ()  Square p4mm () transformation with 1...
+The transformation matrices (distortion, orientation, correspondence), their continuous forms, and their variants
+Preprint
+Full-text available
+Oct 2018
+Cyril Cayron
+The crystallography of displacive phase transformations can be described with three types of matrices: the lattice distortion matrix, the orientation relationship matrix, and the correspondence matrix. The paper gives some formula to express them in crystallographic bases, orthonormal bases, and reciprocal bases, and it explains how to use them to...
+View
+Fig.1 Two crystallographic packets of KS variants represented in 3D and...
+Fig. 2. (a) Schematic of Charpy V specimen cut from the Y-type joint by...
+Fig. 3. Impact toughness transition curves measured in three specimens:...
+Fig. 4 Fracture surface of each specimen tested at-196 o C: (a) Ni0,...
+Fig. 5. SEM graphs of microstructure close to crack source of each...
+The relationship between low-temperature toughness and secondary crack in low-carbon bainitic weld metals
+Article
+Full-text available
+Sep 2018
+Materials Characterization
+Gaojun MaoCyril CayronRui CAO[...]Jianhong Chen
+View
+The ordering mechanisms during precipitation in AlMgSiCu alloys twenty years after their discovery
+Poster
+Full-text available
+Jul 2018
+Cyril Cayron
+In the 1990s, precipitation in AlMgSiCu alloys was like a zoo of metastable phases with the usual beta” and beta’, but also the type-A, type-B and type-C reported by Matsuda, and the L and Q’ phases in alloys containing copper. All appear in TEM as nanometric rods or laths along the <100>Al directions. No crystallographic link between them was esta...
+View
+Study on bainite/martensite transformation in reheated weld metals
+Poster
+Full-text available
+Jul 2018
+Gaojun MaoCyril CayronRui CAO[...]Jianhong Chen
+and zchen@lut.cn 2. Experiments One low-carbon high alloy weld metal was selected to in-situ observe the morphology change of surface bainite during isothermal holding by laser scanning confocal microscope (LSCM), and the other was put into furnace and then suffered from water quenching to obtain martensite. The first confocal sample was cut in to...
+View
+Baddeleyite as a widespread and sensitive indicator of meteorite bombardment in planetary crusts
+Article
+Jul 2018
+Geology
+Lee WhiteJames DarlingD.E. Moser[...]Kimberly T. Tait
+Constraining the timing and intensity of Solar System bombardment is critical to understanding planetary formation, evolution and habitability. However, the identification and dating of shockmetamorphic events in the mafic igneous lithologies that dominate planetary materials remains highly challenging, particularly at relatively modest shock press...
+View
+Microstructural evolution and mechanical property development with nickel addition in low-carbon weld butt joints
+Article
+Jul 2018
+Journal of Materials Processing Technology
+Gaojun MaoRui CAOCyril Cayron[...]Jianhong Chen
+Four metal powder flux-cored wires with added nickel (Ni) were designed to systematically investigate how Ni influences the microstructure and toughness in low-carbon bainitic weld metals (WMs). The microstructure was safely predicted by utilizing reasonable welding craft parameters (i.e., appropriate heat input and proper interpass temperature). M...
+View
+EBSD map on section A of the magnesium single crystal. (a) Map with...
+Pole figures of the EBSD map shown in Fig. 1, indicating some important...
+Schematic representation of the prototype (58°, a + 2b) stretch twin....
+Pole figures of the EBSD map shown in Fig. 1, indicating some important...
+Pole figures of the EBSD map revealing the unconventional character of...
+Evidence of new twinning modes in magnesium questioning the shear paradigm
+Article
+Full-text available
+May 2018
+
+Journal of Applied Crystallography
+Cyril CayronRoland E. Logé
+Twinning is an important deformation mode of hexagonal close-packed metals. The crystallographic theory is based on the 150-year-old concept of simple shear. The habit plane of the twin is the shear plane; it is invariant. This article presents electron backscatter diffraction observations and crystallographic analysis of a millimetre-size twin in...
+View
+Intricate morphologies of laths and blocks in low-carbon martensitic steels
+Article
+May 2018
+Materials & Design
+Cyril CayronAnnick BaurRoland E. Logé
+Low-carbon martensitic steels are made of intricate assemblies of martensitic laths: the twenty-four lath variants are grouped into packets on the four {111}fcc planes, and each packet is composed of three blocks of pairs of low-misoriented variants. The orientation relationship between the laths and their parent austenitic grains ranges from Kurdj...
+View
+Figure 1. Crystal and deformation twinning. (a) Crystal imagined as a...
+Figure 3. Kurdjumov-Sachs-Nishiyama (KSN) model of face-centered cubic...
+Figure 8. Periodic functions τ with different slopes μ at the points τ...
+Figure 9. Schematic two-dimensional (2D) representation of a collective...
+Figure 9. Schematic two-dimensional (2D) representation of a collective...
+Shifting the Shear Paradigm in the Crystallographic Models of Displacive Transformations in Metals and Alloys
+Article
+Full-text available
+Apr 2018
+
+Crystals
+Cyril Cayron
+Deformation twinning and martensitic transformations are characterized by the collective displacements of atoms, an orientation relationship, and specific morphologies. The current crystallographic models are based on the 150-year-old concept of shear. Simple shear is a deformation mode at constant volume, relevant for deformation twinning. For mar...
+View
+Fig.2 (a)-(e ) Morphological evolution observation of specimen surface:...
+Table 2 Operators given by their angle/axis misorientation are utilized...
+Fig.3 (a) Microstructure of confocal specimen-lath bainite, (b)...
+Fig. 4(a-c) Inverse pole figure (IPF) color map of the researched...
+Study on bainite/martensite transformation in reheated weld metals
+Conference Paper
+Full-text available
+Apr 2018
+Gaojun MaoCyril CayronRui CAO[...]Jianhong Chen
+A new combination of laser scanning confocal microscope (LSCM) and electron backscattering diffraction (EBSD) with a field-emission scanning electron microscope (SEM) is utilized to study the mechanism of bainite transformation in reheated low carbon bainitic weld metal. The LSCM observations show that laths grow on the surface at various rates, fr...
+View
+
+1
+2
+3
+Questions
+Questions (2)
+Where do the twinning dislocation come from?
+Question
+Jun 2020
+The twinning dislocations, also called disconnections, are supposed to explain the formation of mechanical twins and martensite. The typical example is the hcp martensite formed from fcc austenite by the coordinate displacements of regularly spaced 1/6 <112> Shockley partial dislocations on {111} planes. In order to explain the origin of these dislocations, some scientists imagined a pole mechanism in which a unique dislocation would spiral around a “pole”. To my knowledge, this mechanism could not be confirmed by TEM. Then, it seems that the question was just forgotten whereas the theory of twinning dislocation has remained. My idea is that actually it is the twin or the martensite itself that produce the dislocations to accommodate the incompatibilities with the surrounding matrix, but that means that dislocations cannot explain the twin or the martensite formation because a phenomena cannot be explained by its consequence. I am ready to change my mind if anyone can reply to the question: where the twinning dislocations come from? Some TEM images showing the sources of twinning dislocations would be welcome.
+View
+18 Answers
+Do low-Sigma CSL boundaries really exist in polycrystalline materials?
+Question
+Jun 2020
+Grain boundary engineering is a concept developed in the 1980-1990s that would like to increase materials properties by increasing the fraction of coincidence site lattice (CSL) boundaries with low sigma values (typically <30). However, after 20 years of EBSD on many different materials I never encountered a polycrystalline material that would exhibit a fraction of Sigma5, Sigma 7, Sigma 11, Sigma13, or Sigma15, with a frequency higher than random (ie higher than Mackenzie distribution). I conclude that the concept of low-CSL networks and related percolation theory promoted is actually not relevant for most of the metallurgical alloys. The only special boundaries are Sigma3n (Sigma3, Sigma9, etc) in low stacking fault metals, and for sure such materials have special properties thanks to their large twin related domains (and not because of an hypothetical network of low CSL). Could anyone show me an EBSD map of a polycrystalline material with high frequencies of low Sigma CSL that are not 3, 9 or 27? It would help me to change my mind.
+View
+41 Answers
+Network
+Cited
+View All
+Steven M. Reddy
+Curtin University
+Vaclav Janovec
+Institute of Physics, Academy of Sciences of the Czech Republic, Prague, Czech Republic
+Xiaoxu Huang
+Chongqing University
+Andriy Ostapovets
+Czech Academy of Sciences, Institute of Physics of Materials
+Richard A F Grieve
+Western University
+Cited By
+View All
+Petr Sittner
+FZU ‒ Institute of Physics of the Academy of Sciences of the Czech Republic
+P. V. Vladimirov
+Karlsruhe Institute of Technology
+Gordon R. Osinski
+Western University
+Randi Holmestad
+Norwegian University of Science and Technology (NTNU)
+Sumantra Mandal
+Indian Institute of Technology Kharagpur
+Current institution
+Swiss Federal Institute of Technology in Lausanne
+Lausanne, Switzerland
+Current position
+Scientific collaborator
+Laboratory of Thermomechanical Metallurgy (LMTM)
+Co-authors
+Top co-authors
+Timmons Erickson
+NASA Johnson Space Center
+Gaojun Mao
+ETH Zurich
+Roland E. Logé
+Swiss Federal Institute of Technology in Lausanne
+Jamasp Jhabvala
+Swiss Federal Institute of Technology in Lausanne
+Rouviere Emmanuelle
+Atomic Energy and Alternative Energies Commission
+All co-authors (50)
+View All
+Join ResearchGate to find the people and research you need to help your work
+25+ million members
+160+ million publication pages
+2.3+ billion citations
+Join for free
+ResearchGate Logo
+Search for publications, researchers, or questions
+
+or
+Discover by subject area
+Recruit researchers
+Join for free
+Login
+App Store
+Get it on Google Play
+Company
+About us
+News
+Careers
+Support
+Help Center
+Business solutions
+Advertising
+Recruiting
+© 2008-2026 ResearchGate GmbH. All rights reserved.
+TermsPrivacyCopyrightImprintConsent preferences

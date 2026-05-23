@@ -1,4 +1,125 @@
 {
+  "alloy_systems": {
+    "NiTi shape memory alloys": [
+      "NiTi",
+      "Niti",
+      "nickel titanium",
+      "B2",
+      "B19",
+      "B19′",
+      "B19’",
+      "shape memory",
+      "superelastic"
+    ],
+    "martensitic and bainitic steels": [
+      "steel",
+      "steels",
+      "martensitic steel",
+      "bainitic",
+      "bainite",
+      "austenite",
+      "ferritic-martensitic",
+      "G115",
+      "weld metal",
+      "weld metals",
+      "lath martensite",
+      "low-carbon"
+    ],
+    "316L stainless steel and CuCrZr multi-materials": [
+      "316L",
+      "316 L",
+      "SS-316L",
+      "stainless",
+      "CuCrZr",
+      "multi-material",
+      "copper-steel"
+    ],
+    "magnesium alloys": [
+      "magnesium",
+      " Mg",
+      "Mg−",
+      "Mg-",
+      "Mg–",
+      "Mg alloy",
+      "Mg–Gd",
+      "Mg−Gd"
+    ],
+    "aluminum 6xxx and Al-Mg-Si-Cu": [
+      "Al-Mg-Si",
+      "Al–Mg–Si",
+      "AlMgSi",
+      "Al-Mg-Si-Cu",
+      "AlMgSiCu",
+      "6014 aluminum",
+      "aluminum alloy",
+      "aluminium alloy",
+      "β-Mg2Si"
+    ],
+    "Ti and Ti-6Al-4V alloys": [
+      "Ti-6Al-4V",
+      "Ti‐6Al‐4V",
+      "Ti alloy",
+      "titanium",
+      "Ti-8Mo",
+      "β→α",
+      "α′",
+      "alpha prime"
+    ],
+    "gold alloys and ordered Au-Cu/Au-Ti": [
+      "red gold",
+      "Au-Cu",
+      "Au–Cu",
+      "Au-Ti",
+      "Au–Ti",
+      "18 carat",
+      "L10",
+      "A1→L10",
+      "gold alloy"
+    ],
+    "copper alloys": [
+      "Cu-Ti",
+      "Cu–Ti",
+      "Cu-Be",
+      "copper alloy",
+      "Cu precip",
+      "Cu precipitation",
+      "Cu-Ti-(Fe)",
+      "Cu-xTi"
+    ],
+    "high entropy alloys": [
+      "high entropy",
+      "HEA",
+      "PdPtRhIrCuNi"
+    ],
+    "superalloys": [
+      "superalloy",
+      "CoNiAlW",
+      "γ′",
+      "gamma prime",
+      "Cr content"
+    ],
+    "planetary / impact minerals and metals": [
+      "zircon",
+      "monazite",
+      "meteorite",
+      "lunar",
+      "impact",
+      "baddeleyite",
+      "Fe-Ni metal",
+      "basaltic",
+      "Mistastin",
+      "Clearwater"
+    ],
+    "ODS / powder metallurgy materials": [
+      "oxide dispersion",
+      "ODS",
+      "hot isostatic",
+      "HIP",
+      "spark plasma sintering",
+      "SPS",
+      "powder characteristics"
+    ]
+  },
   "mechanisms": {
     "martensitic transformations": [
       "martensite",
@@ -6,7 +127,7 @@
       "displacive",
       "B2",
       "B19",
-      "B19'",
+      "B19′",
       "B19’",
       "fcc",
       "bcc",
@@ -17,7 +138,10 @@
       "phenomenological theory",
       "shape strain",
       "hard-sphere",
-      "supercompatibility"
+      "supercompatibility",
+      "chevron",
+      "lath",
+      "plate martensite"
     ],
     "twinning and weak twins": [
       "twin",
@@ -31,27 +155,27 @@
       "compound twin",
       "Sigma3",
       "Σ3",
-      "CSL",
-      "simple shear",
       "invariant plane",
-      "disconnection"
+      "simple shear",
+      "disconnections",
+      "CSL"
     ],
     "variant selection and texture": [
       "variant",
       "variants",
       "variant selection",
       "orientation relationship",
-      "misorientation",
+      "OR",
       "texture",
       "pole figure",
+      "parent grain",
+      "reorientation",
       "packet",
       "block",
-      "lath",
       "Kurdjumov",
       "Nishiyama",
       "KS",
-      "OR",
-      "reorientation"
+      "KSN"
     ],
     "transformation matrices and symmetry": [
       "matrix",
@@ -60,216 +184,107 @@
       "distortion",
       "orientation",
       "symmetry",
-      "groupoid",
-      "operator",
+      "metric",
+      "group theory",
+      "number theory",
       "lattice reduction",
       "Bézout",
-      "Bezier",
-      "metrics",
-      "crystallography",
-      "unit cell",
-      "basis",
-      "rational plane"
+      "unimodular",
+      "LLL",
+      "cubification",
+      "hyperplane",
+      "hyperplanar"
     ],
     "precipitation and ordering": [
       "precipitate",
       "precipitation",
       "nucleation",
-      "Mg2Si",
-      "β",
-      "beta",
-      "Q'",
+      "β-Mg2Si",
+      "Laves",
       "ordering",
+      "ordered",
       "L10",
       "A1",
       "age-hardening",
+      "age hardening",
+      "solute",
       "interfacial energy",
-      "CNT"
+      "classical nucleation"
     ],
     "recrystallization and grain evolution": [
       "recrystallization",
       "grain",
-      "parent grain",
       "grain fragmentation",
-      "grain boundary",
-      "boundary",
-      "cold-rolled",
-      "rolling",
-      "deformation",
-      "VPSC",
-      "fragmentation"
+      "grain refinement",
+      "grain size",
+      "reversion",
+      "microstructural topology",
+      "parent β grain",
+      "parent grain reconstruction"
     ],
-    "additive manufacturing metallurgy": [
-      "LPBF",
-      "L-PBF",
-      "laser powder bed fusion",
-      "additive manufacturing",
-      "3D printed",
-      "beam shaping",
-      "selective laser",
-      "melt pool",
-      "thermal gradient",
-      "cooling rate"
+    "diffraction artefacts and phase identification": [
+      "diffraction artefacts",
+      "extra-spots",
+      "superstructure",
+      "polytypes",
+      "hexagonal phase",
+      "moiré",
+      "stacking faults",
+      "phase map",
+      "phase heritage",
+      "orientation relationship"
     ],
     "mechanical behavior": [
       "mechanical",
       "strength",
       "toughness",
-      "creep",
-      "superelastic",
-      "formability",
-      "compression",
-      "bending",
-      "strain",
       "hardness",
-      "yield",
-      "impact",
-      "fatigue"
-    ],
-    "diffraction artefacts and phase identification": [
-      "diffraction artefact",
-      "artefacts",
-      "superstructure",
-      "polytype",
-      "hexagonal",
-      "double diffraction",
-      "moiré",
-      "stacking fault",
-      "SAED",
-      "HRTEM",
-      "phase identification"
-    ],
-    "thermal and shock microstructure": [
-      "shock",
-      "impact",
-      "meteorite",
-      "lunar",
-      "zircon",
-      "baddeleyite",
-      "thermal history",
-      "geothermometer",
-      "high pressure",
-      "high temperature"
-    ]
-  },
-  "alloy_systems": {
-    "NiTi shape memory alloys": [
-      "NiTi",
-      "Niti",
-      "shape memory",
+      "ductility",
+      "formability",
+      "creep",
+      "superplastic",
       "superelastic",
-      "B2",
-      "B19",
-      "B19'",
-      "B19’"
+      "fatigue",
+      "interaction work",
+      "deformation",
+      "bending",
+      "compression",
+      "strain rate"
     ],
-    "martensitic and bainitic steels": [
-      "steel",
-      "steels",
-      "martensitic steel",
-      "bainite",
-      "bainitic",
-      "weld",
-      "weld metal",
-      "Fe-Ni",
-      "Fe-20Ni",
-      "low-carbon",
-      "G115",
-      "ferritic-martensitic"
+    "thermal history and extreme conditions": [
+      "thermal history",
+      "temperature",
+      "pressure",
+      "impact melt",
+      "geothermometer",
+      "shock",
+      "high-pressure",
+      "cooling conditions",
+      "fast recrystallization",
+      "laser-induced"
     ],
-    "316L stainless steel and CuCrZr multi-materials": [
-      "316L",
-      "SS-316L",
-      "stainless",
-      "CuCrZr",
-      "copper-steel",
-      "multi-material"
-    ],
-    "magnesium alloys": [
-      "magnesium",
-      "Mg alloy",
-      "Mg alloys",
-      "Mg−",
-      "Mg–6",
-      "Mg-6",
-      "Mg–Gd",
-      "Mg−Gd",
-      "Mg-Gd",
-      "Mg microcrystals",
-      "HCP"
-    ],
-    "aluminum 6xxx and Al-Mg-Si-Cu": [
-      "Al-Mg-Si",
-      "Al–Mg–Si",
-      "AlMgSi",
-      "Al-Mg-Si-Cu",
-      "Al–Mg–Si–Cu",
-      "6014",
-      "6xxx",
-      "Mg2Si",
-      "aluminum",
-      "aluminium"
-    ],
-    "Ti and Ti-6Al-4V alloys": [
-      "Ti-6Al-4V",
-      "Ti alloy",
-      "titanium",
-      "Ti-8Mo",
-      "α'",
-      "alpha prime",
-      "β grain"
-    ],
-    "gold alloys and ordered Au-Cu/Au-Ti": [
-      "red gold",
-      "gold",
-      "Au-Cu",
-      "Au–Cu",
-      "Au-Ti",
-      "Au–Ti",
-      "18 carat",
-      "L10",
-      "TADA"
-    ],
-    "copper alloys": [
-      "Cu-Ti",
-      "Cu–Ti",
-      "copper",
-      "CuCrZr",
-      "Cu precipitation",
-      "Cu-Be"
-    ],
-    "high entropy alloys": [
-      "high entropy",
-      "HEA",
-      "PdPtRhIrCuNi"
-    ],
-    "superalloys": [
-      "superalloy",
-      "CoNiAlW",
-      "γ′",
-      "gamma prime"
-    ],
-    "metal matrix composites and thin films": [
-      "MMC",
-      "SiC",
-      "composite",
-      "thin film",
-      "nitride",
-      "cathodic arc",
-      "Zn3P2",
-      "perovskite"
+    "microstructure-property links": [
+      "microstructure",
+      "microstructural",
+      "properties",
+      "mechanical properties",
+      "property development",
+      "functional response",
+      "tailored",
+      "customized"
     ]
   },
   "methods": {
     "EBSD / TKD orientation microscopy": [
       "EBSD",
       "electron backscatter",
-      "electron backscattered",
+      "backscattered diffraction",
       "TKD",
-      "Transmission Kikuchi",
-      "orientation microscopy",
-      "parent grain reconstruction",
+      "transmission Kikuchi",
+      "orientation map",
       "IPF",
+      "Euler",
+      "parent-grain reconstruction",
       "pole figure"
     ],
     "TEM / STEM / HRTEM": [
@@ -278,97 +293,129 @@
       "STEM",
       "HAADF",
       "SAED",
-      "EDS",
       "transmission electron",
-      "electron microscopy"
+      "selected area",
+      "lamella"
     ],
-    "SEM / FESEM / BSE": [
+    "SEM / BSE / FESEM": [
       "SEM",
-      "FESEM",
       "BSE",
+      "FESEM",
       "back-scattered",
-      "secondary electron"
+      "secondary electron",
+      "micrograph"
     ],
-    "XRD / synchrotron diffraction": [
+    "XRD and synchrotron diffraction": [
       "XRD",
       "X-ray",
       "synchrotron",
-      "diffraction"
+      "diffraction",
+      "crystallography",
+      "Acta Crystallographica"
     ],
-    "thermal processing": [
-      "heat treatment",
-      "annealing",
-      "age-hardening",
-      "quenching",
-      "cooling",
-      "flash infrared",
-      "thermomechanical"
+    "in-situ / thermal observation": [
+      "in-situ",
+      "in situ",
+      "laser scanning confocal",
+      "LSCM",
+      "thermal camera",
+      "monitoring",
+      "fast recrystallization",
+      "annealing"
     ],
-    "deformation and mechanical testing": [
-      "bending",
-      "compression",
+    "mechanical testing and deformation": [
       "tensile",
-      "rolling",
-      "shock peening",
+      "compression",
+      "bending",
+      "four point",
       "creep",
-      "Gleeble",
-      "micro-hardness",
+      "shock peened",
+      "rolled",
       "strain rate",
+      "ECAP",
       "SSE",
-      "ECAP"
+      "simple shear extrusion",
+      "equal channel angular pressing"
     ],
-    "additive manufacturing process": [
-      "LPBF",
-      "L-PBF",
-      "laser powder bed fusion",
-      "beam shaping",
-      "selective laser",
-      "3D printed",
-      "in-situ laser"
-    ],
-    "modeling and crystallographic computation": [
+    "crystallographic modeling": [
+      "model",
+      "theory",
+      "correspondence theory",
       "PTMC",
-      "correspondence",
-      "matrix",
-      "groupoid",
-      "symmetry",
-      "VPSC",
-      "classical nucleation theory",
-      "CNT",
+      "hard-sphere",
       "lattice reduction",
       "Bézout",
-      "MTEX"
+      "matrix",
+      "algorithm",
+      "simulation"
+    ],
+    "additive manufacturing / LPBF process": [
+      "LPBF",
+      "L-PBF",
+      "laser powder bed",
+      "3D printed",
+      "additive manufacturing",
+      "beam shaping",
+      "selective laser",
+      "laser heat treatment",
+      "melt-pool",
+      "melt pool"
+    ],
+    "heat treatment / thermomechanical processing": [
+      "heat treatment",
+      "age-hardening",
+      "annealing",
+      "rolling",
+      "cold-rolled",
+      "hot extruded",
+      "HIP",
+      "hot isostatic",
+      "SPS",
+      "solutionized",
+      "thermomechanical"
     ]
   },
-  "source_focus": {
-    "core metallurgy": [
-      "martensite",
-      "twin",
-      "EBSD",
-      "TKD",
-      "steel",
-      "NiTi",
-      "Al",
-      "LPBF",
-      "microstructure",
-      "variant",
-      "precipitate",
-      "recrystallization",
-      "texture",
-      "phase transformation",
-      "mechanical properties",
-      "Mg alloy",
-      "magnesium"
+  "properties": {
+    "strength / hardness / toughness": [
+      "strength",
+      "hardness",
+      "toughness",
+      "yield",
+      "fracture",
+      "impact toughness"
     ],
-    "adjacent microstructure/materials": [
-      "zircon",
-      "meteorite",
-      "perovskite",
-      "thin film",
-      "catalyst",
-      "solar",
-      "photovoltaic",
-      "lunar"
+    "functional SMA response": [
+      "shape memory",
+      "superelastic",
+      "transformation stress",
+      "recoverable",
+      "hysteresis",
+      "variant reorientation"
+    ],
+    "creep / high-temperature response": [
+      "creep",
+      "high temperature",
+      "ultra-supercritical",
+      "thermal stability"
+    ],
+    "formability / ductility / superplasticity": [
+      "formability",
+      "ductility",
+      "superplastic",
+      "superplasticity",
+      "elongation"
+    ],
+    "texture / anisotropy": [
+      "texture",
+      "anisotropy",
+      "variant selection",
+      "pole figure"
+    ],
+    "thermal/electrical properties": [
+      "thermal",
+      "electrical",
+      "conductivity",
+      "thermal/electrical"
     ]
   }
 }
