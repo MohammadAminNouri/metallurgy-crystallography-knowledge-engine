@@ -1,0 +1,17 @@
+[
+  {
+    "source": "ResearchGate profile",
+    "url": "https://www.researchgate.net/profile/Cyril-Cayron",
+    "use": "Broad publication list, abstracts, questions, coauthors. Use manual copy/export because automated access can be unstable."
+  },
+  {
+    "source": "EPFL people profile",
+    "url": "https://people.epfl.ch/cyril.cayron?lang=en",
+    "use": "Official affiliation: Scientist, Laboratory of Thermomechanical Metallurgy - PX Group Chair; teaching roles."
+  },
+  {
+    "source": "Google Scholar profile",
+    "url": "https://scholar.google.com/citations?hl=fr&user=HlmJncAAAAAJ",
+    "use": "Citation-ranked publication list. Export manually or via compliant tools such as Publish or Perish; then upload CSV to the app."
+  }
+]
